@@ -1,4 +1,4 @@
-#Inventory-Management-System
+# Inventory-Management-System
 - Install node module for server in backend folder
 - Install node module for react in root
 - Run deployment server of react by npm start
